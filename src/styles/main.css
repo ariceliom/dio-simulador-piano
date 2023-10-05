@@ -14,6 +14,13 @@ body {
   width: 780px;
 }
 
+.container header {
+  align-items: center;
+  color: #b2b2b2;
+  display: flex;
+  justify-content: space-between;
+}
+
 header h2 {
   font-size: 1.6rem;
 }
@@ -57,7 +64,7 @@ header .column span {
 }
 
 .keys-check input:checked::before {
-  background-color: #8c8c8c;
+  background-color: #fff;
   left: 2.1rem;
 }
 
