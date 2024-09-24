@@ -28,5 +28,4 @@ Simulador de Piano feito em HTML, CSS e JavaScript puro durante as aulas do Desa
 
 Entre em contato comigo acessando minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielgmbarros "LinkedIn")
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GracilianoOG "GitHub")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ariceliomoura "LinkedIn")
